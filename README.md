@@ -53,11 +53,6 @@ I am a second year student at Bharati Vidyapeeth's College Of Engineering (aGGSI
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjha812&show_icons=true&theme=dark" alt="Abhishek's github stats"/>
 </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=abhishekjha812&theme=dracula)
-
-
-
-
 <br/>
 
 
