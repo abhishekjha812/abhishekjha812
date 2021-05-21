@@ -61,17 +61,6 @@ I am a second year student at Bharati Vidyapeeth's College Of Engineering (aGGSI
 <br/>
 
 
-<p align="center"><a target="https://github.com/abhishekjha812/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha812&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
 
-
-
-
-
-<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekjha812"></a></p>
-<p align="center">
-  <a href="https://twitter.com/abhishe65772158"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a target="_blank"href="https://www.linkedin.com/in/abhishek-jha-07743a118/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a target="_blank"href="https://www.instagram.com/abhiabhi_shek19/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</p>
 
 
