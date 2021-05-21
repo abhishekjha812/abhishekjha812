@@ -1,5 +1,5 @@
 <h2> Hey, I'm Abhishek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-I am a second year student at Bharati Vidyapeeth's College Of Engineering ,New Delhi. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, playing pc games haha .
+I am a second year student at Bharati Vidyapeeth's College Of Engineering (aGGSIPU),New Delhi. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, playing pc games haha .
 
 <br/>
 
@@ -55,17 +55,17 @@ I am a second year student at Bharati Vidyapeeth's College Of Engineering ,New D
 <br/>
 
 
-<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SantanuxD&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
+<p align="center"><a target="https://github.com/abhishekjha812/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha812&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
 
 
 
 
 
-<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
+<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=abhishekjha812"></a></p>
 <p align="center">
-  <a href="https://twitter.com/Santanu97990818"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a target="_blank"href="https://www.instagram.com/_.santanubiswas._/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://twitter.com/abhishe65772158"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/abhishek-jha-07743a118/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a target="_blank"href="https://www.instagram.com/abhiabhi_shek19/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
 
