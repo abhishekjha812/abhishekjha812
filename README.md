@@ -1,5 +1,5 @@
-<h2> Hey, I'm Abhishek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-I am a second year student at Bharati Vidyapeeth's College Of Engineering (aGGSIPU),New Delhi. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, playing pc games haha .
+<h2> Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek </h2>
+I am a second year student at Bharati Vidyapeeth's College Of Engineering (GGSIPU),New Delhi. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, playing pc games haha .
 
 <br/>
 
