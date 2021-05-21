@@ -46,6 +46,12 @@ I am a second year student at Bharati Vidyapeeth's College Of Engineering (aGGSI
 
 ## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
 <br/>
+<a href="https://github.com/abhishekjha812">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjha812&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/abhishekjha812">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekjha812&show_icons=true&theme=dark" alt="Abhishek's github stats"/>
+</a>
 
 ![](https://activity-graph.herokuapp.com/graph?username=abhishekjha812&theme=dracula)
 
