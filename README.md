@@ -13,10 +13,10 @@ I am a second year student at Bharati Vidyapeeth's College Of Engineering (GGSIP
 ## 📲 Connect with me on social media 
 <p align="left">
  <a target="_blank"href="https://www.linkedin.com/in/abhishek-jha-07743a118/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a href="https://twitter.com/abhishe65772158"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
 <!--   <a target="_blank"href="#"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/> -->
   <a target="_blank"href="https://github.com/abhishekjha812"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://www.instagram.com/abhiabhi_shek19/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-  <a href="https://twitter.com/abhishe65772158"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="mailto:jhaabhishek812t@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 </p>
